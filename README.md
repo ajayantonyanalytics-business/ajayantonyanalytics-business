@@ -319,7 +319,7 @@ I'm interested in opportunities across:
 
 **Analytics Engineering · Data Engineering · BI Engineering · Microsoft Fabric · Data & BI · Analytics**
 
-📍 **Germany / Europe**
+📍 **Europe**
 
 If you're a recruiter, hiring manager or data professional interested in discussing opportunities or data projects, feel free to connect.
 
