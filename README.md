@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
-</a>
-
 
 </div>
 
