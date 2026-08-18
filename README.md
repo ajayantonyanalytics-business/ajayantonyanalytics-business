@@ -96,7 +96,7 @@ Hypothesis testing → confidence intervals → effect size → regression → c
 
 ---
 
-# 🚀 Portfolio | Analytics Engineering Projects
+# 🚀 Portfolio | Data Analytics & BI  Engineering Projects
 
 > **A selection of projects demonstrating how I approach real-world data problems.**
 
