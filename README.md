@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ajay Suresh - Data & BI Analytics Engineer" width="100%"/>
+<img src="German Headline.png" width="100%"/>
 
 <br/>
 
